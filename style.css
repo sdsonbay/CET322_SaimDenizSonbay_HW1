@@ -1,0 +1,32 @@
+﻿.menu-head {
+    display: flex;
+    justify-content: center;
+}
+
+    .menu-head a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .menu-head .btn {
+        margin: 1.5em;
+    }
+
+.img-area {
+    padding: 5em;
+    display: flex;
+}
+
+.img {
+    width: 30em;
+    height: 20em;
+}
+
+.text-container {
+    padding: 5em;
+    background-color: #bacbe9;
+}
+
+    .text-container p {
+        width: 40em;
+    }
